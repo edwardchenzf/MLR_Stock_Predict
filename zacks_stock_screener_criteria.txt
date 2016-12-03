@@ -1,0 +1,12 @@
+
+Nov 30/2016
+
+Market Cap >= 100 million
+Avg Volume >= 10000
+Beta <= 3
+P/E(Trailing 12 Months) <= 150
+Current Ratio < 10
+Current ROE(TTM) >= -100
+12 Mo Trailing EPS >= 0
+Price as a % of 52 Wk H-L Range > -100%
+% Price Change (12 Weeks) > -100%
